@@ -23,13 +23,13 @@ Include `raphael.js`, `g.raphael.js` and any (or all) of `g.line.js`, `g.bar.js`
 
 ## Sample Chart Images
 
-![pie](examples/images/readme/pie.png)
+![pie](raw/file_structure/examples/images/readme/pie.png)
 
-![line](examples/images/readme/line.png)
+![line](raw/file_structure/examples/images/readme/line.png)
 
-![bar](examples/images/readme/bar.png)
+![bar](raw/file_structure/examples/images/readme/bar.png)
 
-![dot](examples/images/readme/dot.png)
+![dot](raw/file_structure/examples/images/readme/dot.png)
 
 ## More information
 
