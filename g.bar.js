@@ -49,7 +49,7 @@ Raphael.fn.g.barchart = function (x, y, width, height, values, opts) {
     total = (opts.to) || total;
     var barwidth = width / (len * (100 + gutter) + gutter) * 100,
         barhgutter = barwidth * gutter / 100,
-        barvgutter = opts.vgutter == null ? 20 : opts.vgutter,
+        barvgutter = opts.vgutter == null ? 30 : opts.vgutter,
         stack = [],
         X = x + barhgutter,
         Y = (height - 2 * barvgutter) / total;
