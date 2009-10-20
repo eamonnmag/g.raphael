@@ -21,16 +21,6 @@ Include `raphael.js`, `g.raphael.js` and any (or all) of `g.line.js`, `g.bar.js`
     // and data: [55, 20, 13, 32, 5, 1, 2, 10]
     r.g.piechart(320, 240, 100, [55, 20, 13, 32, 5, 1, 2, 10]);
 
-## Sample Chart Images
-
-![pie](raw/file_structure/examples/images/readme/pie.png)
-
-![line](raw/file_structure/examples/images/readme/line.png)
-
-![bar](raw/file_structure/examples/images/readme/bar.png)
-
-![dot](raw/file_structure/examples/images/readme/dot.png)
-
 ## More information
 
 For more information, visit <http://g.raphaeljs.com>
